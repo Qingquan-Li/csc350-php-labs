@@ -1,0 +1,17 @@
+# Ignore Docker environment variables file
+.env
+
+# Ignore Docker volumes
+volumes/
+
+# Ignore vendor directory (dependencies installed by Composer for PHP)
+/vendor/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PHPStorm project files
+.idea/
+
+# Ignore PHP Intelisense extension files (if using VSCode)
+.vscode/phpintelisense/
