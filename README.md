@@ -1,1 +1,1 @@
-TODO: rename the project as csc350_php_labs
+CSC 350 - PHP - Labs
