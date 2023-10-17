@@ -10,7 +10,7 @@ $ mysql -u root -p
 # Backup MySQL database to a file
 # There's no space between -p and [password]
 # docker exec -it [ontainer_name_or_id] mysqldump -u[user] -p[password] [database_name] > backup.sql
-$ docker exec -it csc350-php-labs-db-1 mysqldump -u root -prootpassword sitename > ./db/backup-mysql-operations-lab8.sql
+$ docker exec -it csc350-php-mysql-labs-db-1 mysqldump -u root -prootpassword sitename > ./db/backup-mysql-operations-lab8.sql
 ```
 
 
