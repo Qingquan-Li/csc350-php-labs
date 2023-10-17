@@ -1,4 +1,4 @@
-# CSC 350 - PHP - Labs
+# CSC 350 - PHP - MySQL - Labs
 
 ## Run Docker
 
